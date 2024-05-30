@@ -1,20 +1,22 @@
 # Pandas-challenge
 
-In this project, we analyzed schools within a specific district to understand key metrics of student performance and how they relate to various factors like paricular school, out its' size, budget, and type. Our goal was to provide insights into how these factors influence student outcomes.
+In this project, we analyzed schools in a specific district to understand student performance and how it relates to school size, budget, type, and etc. Our goal was to provide insights into factors influencing student outcomes.
 
 Overview of the Analysis:
 Key Metrics: We examined total and average values such as school sizes, budgets, and student performance across all schools in the district and for each individual school.
-Correlations: We explored how student performance correlates with different school characteristics, including school size, type (Charter vs. District), and budget.
+Correlations: We explored how student performance correlates with different school characteristics, including school size, type (Charter vs. District), budget, or even students Grades (age groups).
+
 Performance Rankings: We identified the top 5 highest performing schools and the 5 lowest performing schools, based on the average percentage of students who passed both math and reading tests.
-Key Findings:
-School Type and Performance:
 
-Students in Charter Schools consistently outperform those in District Schools. This trend is evident across all metrics, including average math and reading scores, as well as the percentages of students passing these subjects.
-School Size and Performance:
+* Key Findings:
+1. School Type and Performance:
+Charter Schools consistently outperform District Schools in all metrics, including math and reading scores and passing rates.
 
-Smaller schools (0-1,000 students) and medium-sized schools (1,000-2,000 students) tend to have better student performance compared to larger schools (2,000-5,000 students). These smaller and medium-sized schools show higher average scores and passing rates in both math and reading.
-Optimal School Environment:
+2. School Size and Performance:
+Smaller (<1,000 students) and medium-sized (1,000-2,000 students) schools have better student performance than larger schools (2,000-5,000 students).
 
-The data suggests that students have a higher chance of achieving high grades if they attend small or medium-sized Charter schools.
-Conclusion:
-Our analysis indicates that the type and size of a school play significant roles in student success. Charter schools, especially those that are smaller or medium-sized, provide an environment where students are more likely to excel academically. These insights can help guide decisions for parents, educators, and policymakers to improve educational outcomes within the district.
+3. Budget vs. Performance:
+School budget, whether total or per student, has less impact on performance compared to school type and size. The top 5 highest-performing schools are all Charter schools with efficient budget use, while all 5 of the lowest-performing are District schools with higher budgets per student.
+
+* Recommendations:
+Investing in small and medium-sized Charter schools could be beneficial as they show higher student achievement and efficient budget use.
