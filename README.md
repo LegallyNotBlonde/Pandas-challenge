@@ -2,6 +2,7 @@
 In this project, we analyzed schools within a specific district to understand key metrics of student performance and how they relate to various factors like paricular school, out its' size, budget, and type. Our goal was to provide insights into how these factors influence student outcomes.
 
 Overview of the Analysis:
+
 Key Metrics: We examined total and average values such as school sizes, budgets, and student performance across all schools in the district and for each individual school.
 Correlations: We explored how student performance correlates with different school characteristics, including school size, type (Charter vs. District), and budget.
 Performance Rankings: We identified the top 5 highest performing schools and the 5 lowest performing schools, based on the average percentage of students who passed both math and reading tests.
